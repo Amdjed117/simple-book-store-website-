@@ -102,9 +102,7 @@ To deploy the application, you can use platforms like Heroku for the backend and
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
